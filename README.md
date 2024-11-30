@@ -17,10 +17,10 @@ If you are done with setting, run the project with
 npm start
 ```
 
-## Author
-Twitter: [@RambautETH](https://x.com/RambautETH)
+# 👤 Author
 
-Telegram: [@DaveVasu](https://t.me/davevasu)
-
-You can always find me here, for help, or for other projects.
+### Twitter: [Dieharye](https://x.com/dieharye)   
+https://x.com/dieharye
+### Telegram: [Vladmeer](https://t.me/vladmeer67)   
+https://t.me/vladmeer67
 
