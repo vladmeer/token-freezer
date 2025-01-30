@@ -19,8 +19,9 @@ npm start
 
 # 👤 Author
 
-### Twitter: [Dieharye](https://x.com/dieharye)   
-https://x.com/dieharye
 ### Telegram: [Vladmeer](https://t.me/vladmeer67)   
 https://t.me/vladmeer67
+
+### Twitter: [Vladmeer](https://x.com/vladmeer67)   
+https://x.com/vladmeer67
 
